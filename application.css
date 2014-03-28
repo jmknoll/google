@@ -1,0 +1,41 @@
+/** Universal **/
+
+#search div{
+	margin: auto;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+#container {
+	width: 900px;
+	margin: 0 auto;
+}
+
+#search img{
+	width: 250px;
+}
+
+//*#search img{
+	width: 250px;
+	position: relative;
+	left: 325px;
+	right: 325px;
+}*//
+
+#search form{
+	position: relative;
+	left: 250px;
+	right: 250px;
+}
+
+#footer {
+	height: 50px;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #F2F2F2;
+}
